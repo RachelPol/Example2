@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TabuGame/bin/Debug/netcoreapp3.0
+/TabuGame/obj/Debug/netcoreapp3.0
+/TabuGame/obj
